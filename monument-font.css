@@ -1,0 +1,27 @@
+/* From channel Taimoor Shahzada */
+@font-face {
+    font-family: "Monument Extended";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Monument Extended"),
+      url("https://fonts.cdnfonts.com/s/19595/MonumentExtended-Regular.woff")
+        format("woff");
+  }
+@font-face {
+    font-family: "Monument Extended";
+    font-style: normal;
+    font-weight: 800;
+    src: local("Monument Extended"),
+      url("https://fonts.cdnfonts.com/s/19595/MonumentExtended-Ultrabold.woff")
+        format("woff");
+  }
+
+/* You can now easily use this css file to your project
+Monument font 
+
+just type 
+
+font-family: 'Monument Extended';
+
+
+to use this font in host websites */
